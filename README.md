@@ -22,7 +22,7 @@ This is a simple python code which converts the Vault secret which is of JSON fo
 Run the following command in a terminal
 
 '''
-python json_to_env ''' {'PORT': 3000}
+python json_to_env.py
 '''
 
 ## Contact
